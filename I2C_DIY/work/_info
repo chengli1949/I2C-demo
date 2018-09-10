@@ -1,0 +1,179 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.4/examples
+T_opt
+!s110 1535808482
+VTnWSRWGO]i;`7SnFdiOhe0
+04 13 4 work tst_bench_top fast 0
+=60-8cec4b81b67a-5b8a93e1-3a3-32f0
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.4;61
+R0
+vdelay
+Z1 !s110 1536052436
+!i10b 1
+!s100 cDbSlzBENXC:blZ[QU09;0
+IT>TPLn@1UIJC5U@2@n2860
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/sim_dir/I2C/verilog
+Z4 w1535964886
+Z5 8D:/sim_dir/I2C/verilog/bench/tst_bench_top.v
+Z6 FD:/sim_dir/I2C/verilog/bench/tst_bench_top.v
+L0 603
+Z7 OL;L;10.4;61
+r1
+!s85 0
+31
+Z8 !s108 1536052436.299000
+Z9 !s107 timescale.v|D:/sim_dir/I2C/verilog/bench/tst_bench_top.v|
+Z10 !s90 -reportprogress|300|-work|work|-novopt|-stats=none|D:/sim_dir/I2C/verilog/bench/tst_bench_top.v|
+!i113 1
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vi2c_master_bit_ctrl
+!s110 1535599319
+!i10b 1
+!s100 4^X=8^hdG`ZnlHPzFSRnn3
+IHS[lBG_PJJ:X>G:z2TXoj1
+R2
+R3
+w1535592531
+8D:/sim_dir/I2C/verilog/i2c_master_bit_ctrl.v
+FD:/sim_dir/I2C/verilog/i2c_master_bit_ctrl.v
+L0 133
+R7
+r1
+!s85 0
+31
+!s108 1535599319.477000
+!s107 i2c_master_defines.v|timescale.v|D:/sim_dir/I2C/verilog/i2c_master_bit_ctrl.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|D:/sim_dir/I2C/verilog/i2c_master_bit_ctrl.v|
+!i113 1
+R11
+vi2c_master_byte_ctrl
+!s110 1535612620
+!i10b 1
+!s100 aFRkVV3PIB_h7Ud88BKga2
+INXH=XAOA`m83Y6Um9f:gb1
+R2
+R3
+w1535612264
+8D:/sim_dir/I2C/verilog/i2c_master_byte_ctrl.v
+FD:/sim_dir/I2C/verilog/i2c_master_byte_ctrl.v
+L0 75
+R7
+r1
+!s85 0
+31
+!s108 1535612620.689000
+!s107 i2c_master_defines.v|timescale.v|D:/sim_dir/I2C/verilog/i2c_master_byte_ctrl.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|D:/sim_dir/I2C/verilog/i2c_master_byte_ctrl.v|
+!i113 1
+R11
+vi2c_master_top
+!s110 1535633471
+!i10b 1
+!s100 dCU>I9N:oQ6gL2DlVcID<2
+I9LW2G<Hd956BP>cLD<]O_2
+R2
+R3
+w1535633400
+8D:/sim_dir/I2C/verilog/i2c_master_top.v
+FD:/sim_dir/I2C/verilog/i2c_master_top.v
+L0 79
+R7
+r1
+!s85 0
+31
+!s108 1535633471.902000
+!s107 i2c_master_defines.v|timescale.v|D:/sim_dir/I2C/verilog/i2c_master_top.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|D:/sim_dir/I2C/verilog/i2c_master_top.v|
+!i113 1
+R11
+vi2c_slave_model
+!s110 1535963256
+!i10b 1
+!s100 FTBElIRbS^nH7HzG_QVdE0
+IV8f=W_:AgV`[PE_7<P@i12
+R2
+R3
+w1535963247
+8D:/sim_dir/I2C/verilog/bench/i2c_slave_model.v
+FD:/sim_dir/I2C/verilog/bench/i2c_slave_model.v
+Z12 L0 74
+R7
+r1
+!s85 0
+31
+!s108 1535963256.022000
+!s107 timescale.v|D:/sim_dir/I2C/verilog/bench/i2c_slave_model.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|D:/sim_dir/I2C/verilog/bench/i2c_slave_model.v|
+!i113 1
+R11
+vspi_slave_model
+!s110 1535028592
+!i10b 1
+!s100 2flEFA]92ec]bT@7il?PA0
+In70Y?jgFeADWBFUdla4mf2
+R2
+R3
+w1534385136
+8D:/sim_dir/I2C/verilog/bench/spi_slave_model.v
+FD:/sim_dir/I2C/verilog/bench/spi_slave_model.v
+L0 59
+R7
+r1
+!s85 0
+31
+!s108 1535028592.938000
+!s107 timescale.v|D:/sim_dir/I2C/verilog/bench/spi_slave_model.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|D:/sim_dir/I2C/verilog/bench/spi_slave_model.v|
+!i113 1
+R11
+vtst_bench_top
+R1
+!i10b 1
+!s100 JB_6g0nOIZM;elaLazIWX1
+IEFOfaIFLA]<`><kGa8QSj3
+R2
+R3
+R4
+R5
+R6
+R12
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vwb_master_model
+!s110 1535028593
+!i10b 1
+!s100 RZOJbdWYUSJO>a9Uezz[f0
+Ijg^87L[]ESL;Ih2Pf?MW<3
+R2
+R3
+w1077973842
+8D:/sim_dir/I2C/verilog/bench/wb_master_model.v
+FD:/sim_dir/I2C/verilog/bench/wb_master_model.v
+L0 52
+R7
+r1
+!s85 0
+31
+!s108 1535028593.024000
+!s107 timescale.v|D:/sim_dir/I2C/verilog/bench/wb_master_model.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|D:/sim_dir/I2C/verilog/bench/wb_master_model.v|
+!i113 1
+R11

@@ -1,0 +1,57 @@
+D:/sim_dir/I2C/verilog/bench/spi_slave_model.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/bench/spi_slave_model.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module spi_slave_model
+
+Top level modules:
+	spi_slave_model
+
+} {} {}} D:/sim_dir/I2C/verilog/i2c_master_defines.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/i2c_master_defines.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+
+} {} {}} D:/sim_dir/I2C/verilog/bench/i2c_slave_model.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/bench/i2c_slave_model.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module i2c_slave_model
+
+Top level modules:
+	i2c_slave_model
+
+} {} {}} D:/sim_dir/I2C/verilog/i2c_master_top.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/i2c_master_top.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module i2c_master_top
+
+Top level modules:
+	i2c_master_top
+
+} {} {}} D:/sim_dir/I2C/verilog/i2c_master_bit_ctrl.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/i2c_master_bit_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module i2c_master_bit_ctrl
+
+Top level modules:
+	i2c_master_bit_ctrl
+
+} {} {}} D:/sim_dir/I2C/verilog/bench/wb_master_model.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/bench/wb_master_model.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module wb_master_model
+
+Top level modules:
+	wb_master_model
+
+} {} {}} D:/sim_dir/I2C/verilog/timescale.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/timescale.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+
+} {} {}} D:/sim_dir/I2C/verilog/bench/tst_bench_top.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/bench/tst_bench_top.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tst_bench_top
+-- Compiling module delay
+
+Top level modules:
+	tst_bench_top
+
+} {} {}} D:/sim_dir/I2C/verilog/i2c_master_byte_ctrl.v {1 {vlog -work work -novopt -stats=none D:/sim_dir/I2C/verilog/i2c_master_byte_ctrl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module i2c_master_byte_ctrl
+
+Top level modules:
+	i2c_master_byte_ctrl
+
+} {} {}}
